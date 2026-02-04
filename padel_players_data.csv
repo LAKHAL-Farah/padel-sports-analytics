@@ -1,0 +1,41 @@
+name,country,gender,age,date_of_birth,height,birthplace,playing_position,coach,ranking,points,matches_played,matches_won,matches_lost,consecutive_wins,effectiveness,titles,best_rank,image
+Unknown,ARG,Male,26,24/07/1999,1.79,Catamarca,LeftDate,Gustavo Pratto,2023,0,0,0,0,0,0%,0,0,https://www.padelfip.com/wp-content/uploads/2023/02/Agustin-Tapia-2.png
+Unknown,ESP,Male,23,08/03/2002,1.90,Valladolid,RightDate,Gustavo Pratto,2023,0,0,0,0,0,0%,0,0,https://www.padelfip.com/wp-content/uploads/2023/02/Arturo-Coello-2.png
+Unknown,ESP,Male,29,15/05/1996,1.86,Madrid,LeftDate,Jorge Martinez,2023,0,0,0,0,0,0%,0,0,https://www.padelfip.com/wp-content/uploads/2023/02/Alejandro-Galan.png
+Unknown,ARG,Male,28,13/04/1997,1.70,Buenos aires,RightDate,Jorge Martinez,2023,0,0,0,0,0,0%,0,0,https://www.padelfip.com/wp-content/uploads/2023/02/Federico-Chingotto-2.png
+Unknown,ARG,Male,29,25/03/1996,1.80,Chaco,LeftDate,Carlos Pozzoni,2023,0,0,0,0,0,0%,0,0,https://www.padelfip.com/wp-content/uploads/2023/02/Stupaczuk-1.png
+Unknown,ESP,Male,31,31/01/1995,1.84,Unknown,RightDate,Carlos Pozzoni,2023,0,0,0,0,0,0%,0,0,https://www.padelfip.com/wp-content/uploads/2023/02/Lebron-3.png
+Unknown,ESP,Male,27,18/12/1998,1.75,Madrid,LeftDate,Maxi Grabiel,2023,0,0,0,0,0,0%,0,0,https://www.padelfip.com/wp-content/uploads/2023/02/Coki-Nieto.png
+Unknown,ESP,Male,23,18/03/2002,1.89,Unknown,RightDate,Maxi Grabiel,2023,0,0,0,0,0,0%,0,0,https://www.padelfip.com/wp-content/uploads/2023/02/13-YANGUAS.png
+Unknown,ESP,Male,36,10/02/1989,1.81,Sevilla,LeftDate,Ramiro Choya,2023,0,0,0,0,0,0%,0,0,https://www.padelfip.com/wp-content/uploads/2023/02/Paquito-Navarro.png
+Unknown,ARG,Male,21,11/08/2004,1.90,Posadas Misiones,LeftDate,Unknown,2023,0,0,0,0,0,0%,0,0,https://www.padelfip.com/wp-content/uploads/2024/11/Augsburger-1.png
+Unknown,ESP,Male,25,25/09/2000,1.75,Pamplona,RightDate,Gabriel Reca,2023,0,0,0,0,0,0%,0,0,
+Unknown,ARG,Male,28,18/03/1997,1.75,Ezeiza,RightDate,Unknown,5125,0,0,0,0,0,0%,0,0,
+Unknown,BRA,Male,28,18/08/1997,1.65,Unknown,RightDate,Juanjo Gutierrez,5110,0,0,0,0,0,0%,0,0,
+Unknown,ESP,Male,22,30/07/2003,1.76,Unknown,RightDate,Enrique Cataldo,4550,0,0,0,0,0,0%,0,0,
+Unknown,ESP,Male,28,21/02/1997,1.80,Antequera,LeftDate,Gabriel Reca,4410,0,0,0,0,0,0%,0,0,
+Unknown,ESP,Male,22,28/07/2003,1.75,Unknown,LeftDate,Agustin Gomez Silingo,4350,0,0,0,0,0,0%,0,0,
+Unknown,ARG,Male,31,01/02/1995,1.85,Unknown,LeftDate,Sebastian Luis Nerone,3665,0,0,0,0,0,0%,0,0,
+Unknown,ESP,Male,25,08/01/2001,1.80,Valencia,RightDate,Rodrigo Casado,3330,0,0,0,0,0,0%,0,0,
+Unknown,ARG,Male,28,23/12/1997,1.80,Buenos Aires,RightDate,Unknown,2955,0,0,0,0,0,0%,0,0,
+Unknown,ARG,Male,29,30/03/1996,1.70,General Cabrera,LeftDate,Juan Mezza,2870,0,0,0,0,0,0%,0,0,
+Unknown,ESP,Male,31,12/06/1994,1.87,Unknown,RightDate,Carlos Pozzoni,2760,0,0,0,0,0,0%,0,0,
+Unknown,ESP,Male,25,26/10/2000,1.84,Unknown,LeftDate,Pablo Crosetti,2570,0,0,0,0,0,0%,0,0,
+Unknown,ESP,Male,25,09/12/2000,1.77,Murcia,LeftDate,Unknown,2528,0,0,0,0,0,0%,0,0,
+Unknown,ESP,Male,27,17/09/1998,1.79,Madrid,RightDate,Unknown,2500,0,0,0,0,0,0%,0,0,
+Unknown,ESP,Male,21,03/11/2004,1.88,Unknown,RightDate,Sebastian Luis Nerone,2475,0,0,0,0,0,0%,0,0,
+Unknown,ESP,Male,24,25/10/2001,1.88,Valencia,LeftDate,Juan Mieres,2400,0,0,0,0,0,0%,0,0,
+Unknown,ESP,Male,25,22/01/2001,1.82,Unknown,LeftDate,Adrian Torres,2354,0,0,0,0,0,0%,0,0,
+Unknown,BRA,Male,30,13/06/1995,1.79,Alegrete,RightDate,Juan Manuel Restivo,2292,0,0,0,0,0,0%,0,0,
+Unknown,ARG,Male,22,18/07/2003,1.86,Hurlingham,LeftDate,Unknown,2280,0,0,0,0,0,0%,0,0,
+Unknown,ESP,Male,24,11/07/2001,1.90,Unknown,LeftDate,Rodrigo Casado,2252,0,0,0,0,0,0%,0,0,
+Unknown,ARG,Male,41,15/06/1984,1.77,San Luis,RightDate,Agustin Gomez Silingo,2201,0,0,0,0,0,0%,0,0,
+Unknown,UAE,Male,25,13/08/2000,1.85,Santa Cruz de Tenerife,LeftDate,Fernando Poggi,2148,0,0,0,0,0,0%,0,0,
+Unknown,ESP,Male,36,01/09/1989,1.83,Badajoz,RightDate,Gabriel Reca,1941,0,0,0,0,0,0%,0,0,
+Unknown,ESP,Male,36,09/07/1989,1.79,Cartagena,LeftDate,Severino Iezzi,1935,0,0,0,0,0,0%,0,0,
+Unknown,ESP,Male,19,06/02/2006,1.82,Madrid,LeftDate,Maxi Grabiel,1794,0,0,0,0,0,0%,0,0,
+Unknown,ESP,Male,21,21/02/2004,1.80,Granada,RightDate,Unknown,1736,0,0,0,0,0,0%,0,0,
+Unknown,ESP,Male,23,23/01/2003,1.88,Madrid,RightDate,Jorge De Benito,1591,0,0,0,0,0,0%,0,0,
+Unknown,ESP,Male,38,17/06/1987,1.83,Granada,LeftDate,Juan Restivo,1,0,0,0,0,0,0%,0,0,
+Unknown,ESP,Male,18,05/12/2007,1.80,Marbella,RightDate,Severino Iezzi,1,0,0,0,0,0,0%,0,0,
+Unknown,ESP,Male,21,14/07/2004,1.72,Granollers,RightDate,Jorge De Benito,1,0,0,0,0,0,0%,0,0,

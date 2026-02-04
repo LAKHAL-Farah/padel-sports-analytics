@@ -1,0 +1,16 @@
+# Virtual environment
+venv/
+
+# Downloaded/temporary files
+*.html
+*_files/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+
+# IDE
+.vscode/
+.idea/
