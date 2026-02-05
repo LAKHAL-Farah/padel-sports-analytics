@@ -62,9 +62,6 @@ BI padel/
 ### 1. Setup
 
 ```bash
-# Clone and navigate
-cd "c:\Users\ASUS\Desktop\BI padel"
-
 # Activate virtual environment
 .\venv\Scripts\Activate.ps1
 
