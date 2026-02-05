@@ -1,0 +1,51 @@
+================================================================================
+PADEL TIME DIMENSION ANALYSIS
+================================================================================
+
+GROWTH ANALYSIS
+--------------------------------------------------------------------------------
+
+Tournaments by Year:
+  2025: 294 tournaments
+  2026: 398 tournaments
+
+Growth Rate: +35.4%
+
+Tournaments by Padel Season:
+  Spring: 225 tournaments
+  Summer: 194 tournaments
+  Autumn: 144 tournaments
+  Winter: 129 tournaments
+
+Tournaments by Month:
+  January: 22 tournaments
+  February: 40 tournaments
+  March: 57 tournaments
+  April: 90 tournaments
+  May: 78 tournaments
+  June: 77 tournaments
+  July: 63 tournaments
+  August: 54 tournaments
+  September: 59 tournaments
+  October: 85 tournaments
+  November: 60 tournaments
+  December: 7 tournaments
+
+================================================================================
+KEY BI INSIGHTS
+================================================================================
+
+1. HOW FAST IS PADEL GROWING?
+   Growth: +35.4% year-over-year
+
+2. WHICH YEARS SAW SPIKES?
+   Peak Year: 2026 with 398 tournaments
+
+3. BEST TIME FOR TOURNAMENTS?
+   Most Active: April with 90 tournaments
+
+4. TREND ANALYSIS READY?
+   [✓] Year-over-year growth tracking
+   [✓] Seasonal pattern analysis
+   [✓] Monthly trend visualization
+   [✓] Forecasting data prepared
